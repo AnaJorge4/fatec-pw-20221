@@ -1,0 +1,7 @@
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\bin\Debug\AulaUm.exe.config
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\bin\Debug\AulaUm.exe
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\bin\Debug\AulaUm.pdb
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\obj\Debug\AulaUm.csproj.AssemblyReference.cache
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\obj\Debug\AulaUm.csproj.CoreCompileInputs.cache
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\obj\Debug\AulaUm.exe
+C:\Users\0220482113024\source\repos\AulaUm\AulaUm\obj\Debug\AulaUm.pdb

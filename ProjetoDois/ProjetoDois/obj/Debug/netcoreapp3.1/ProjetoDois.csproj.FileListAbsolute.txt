@@ -1,0 +1,16 @@
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.exe
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.deps.json
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.runtimeconfig.json
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.runtimeconfig.dev.json
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.dll
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\bin\Debug\netcoreapp3.1\ProjetoDois.pdb
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.csproj.AssemblyReference.cache
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.Form1.resources
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.csproj.GenerateResource.cache
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.AssemblyInfoInputs.cache
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.AssemblyInfo.cs
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.csproj.CoreCompileInputs.cache
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.dll
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.pdb
+C:\Users\0220482113024\source\repos\ProjetoDois\ProjetoDois\obj\Debug\netcoreapp3.1\ProjetoDois.genruntimeconfig.cache
